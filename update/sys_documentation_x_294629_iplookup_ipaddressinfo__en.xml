@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IPAddressInfo" language="en" table="x_294629_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IPAddressInfo</label>
+            <language>en</language>
+            <name>x_294629_iplookup_ipaddressinfo</name>
+            <plural>IPAddressInfos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-22 11:37:34</sys_created_on>
+            <sys_id>9c9e5a9fdb8323002eaf2bfa4b961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPAddressInfo</sys_name>
+            <sys_package display_value="IPLookup" source="x_294629_iplookup">86d6a5dfdb0323002eaf2bfa4b961978</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">86d6a5dfdb0323002eaf2bfa4b961978</sys_scope>
+            <sys_update_name>sys_documentation_x_294629_iplookup_ipaddressinfo__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-22 11:37:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
